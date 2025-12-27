@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1",
+    "name": "OpenAI",
+    "domain": "openai.com",
+    "industry": "AI"
+  },
+  {
+    "id": "2",
+    "name": "Anthropic",
+    "domain": "anthropic.com",
+    "industry": "AI"
+  }
+]

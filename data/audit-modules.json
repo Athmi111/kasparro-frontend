@@ -1,0 +1,51 @@
+[
+  {
+    "id": "entity-coverage",
+    "name": "Entity Coverage",
+    "score": 78,
+    "insights": [
+      "Brand appears in most AI training contexts",
+      "Strong technical documentation presence"
+    ],
+    "issues": [
+      "Incomplete Wikipedia coverage",
+      "Missing structured product entities"
+    ],
+    "recommendations": [
+      "Expand structured data markup",
+      "Improve entity descriptions across content"
+    ]
+  },
+  {
+    "id": "ai-visibility",
+    "name": "AI Visibility",
+    "score": 85,
+    "insights": [
+      "Frequently mentioned in AI answers",
+      "High visibility in comparison queries"
+    ],
+    "issues": [
+      "Inconsistent positioning across models"
+    ],
+    "recommendations": [
+      "Standardize brand messaging for AI systems"
+    ]
+  },
+  {
+    "id": "trust-eeat",
+    "name": "Trust & EEAT",
+    "score": 72,
+    "insights": [
+      "Strong backlink authority",
+      "Expert-authored content present"
+    ],
+    "issues": [
+      "Missing author schema",
+      "Limited third-party validation"
+    ],
+    "recommendations": [
+      "Add author structured data",
+      "Include expert citations"
+    ]
+  }
+]
